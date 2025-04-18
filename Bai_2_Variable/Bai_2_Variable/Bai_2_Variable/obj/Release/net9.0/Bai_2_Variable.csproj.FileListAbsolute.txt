@@ -1,0 +1,15 @@
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\Bai_2_Variable.exe
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\Bai_2_Variable.deps.json
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\Bai_2_Variable.runtimeconfig.json
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\Bai_2_Variable.dll
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\Bai_2_Variable.pdb
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\Bai_2_Variable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\Bai_2_Variable.AssemblyInfoInputs.cache
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\Bai_2_Variable.AssemblyInfo.cs
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\Bai_2_Variable.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\Bai_2_Variable.sourcelink.json
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\Bai_2_Variable.dll
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\refint\Bai_2_Variable.dll
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\Bai_2_Variable.pdb
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\Bai_2_Variable.genruntimeconfig.cache
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\obj\Release\net9.0\ref\Bai_2_Variable.dll

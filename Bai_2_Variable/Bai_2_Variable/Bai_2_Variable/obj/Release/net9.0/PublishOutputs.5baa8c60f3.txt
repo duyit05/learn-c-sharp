@@ -1,0 +1,5 @@
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\publish\Bai_2_Variable.exe
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\publish\Bai_2_Variable.dll
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\publish\Bai_2_Variable.deps.json
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\publish\Bai_2_Variable.runtimeconfig.json
+D:\Learn C#\Bai_2_Variable\Bai_2_Variable\Bai_2_Variable\bin\Release\net9.0\publish\Bai_2_Variable.pdb
