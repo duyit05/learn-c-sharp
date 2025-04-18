@@ -1,0 +1,15 @@
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\bin\Debug\net9.0\Bai_4_Operator_Compare.exe
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\bin\Debug\net9.0\Bai_4_Operator_Compare.deps.json
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\bin\Debug\net9.0\Bai_4_Operator_Compare.runtimeconfig.json
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\bin\Debug\net9.0\Bai_4_Operator_Compare.dll
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\bin\Debug\net9.0\Bai_4_Operator_Compare.pdb
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\Bai_4_Operator_Compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\Bai_4_Operator_Compare.AssemblyInfoInputs.cache
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\Bai_4_Operator_Compare.AssemblyInfo.cs
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\Bai_4_Operator_Compare.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\Bai_4_Operator_Compare.sourcelink.json
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\Bai_4_Operator_Compare.dll
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\refint\Bai_4_Operator_Compare.dll
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\Bai_4_Operator_Compare.pdb
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\Bai_4_Operator_Compare.genruntimeconfig.cache
+D:\Learn C#\Bai_4_operator_compare\Bai_4_Operator_Compare\Bai_4_Operator_Compare\obj\Debug\net9.0\ref\Bai_4_Operator_Compare.dll
