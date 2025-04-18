@@ -1,0 +1,15 @@
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\bin\Debug\net9.0\Bai_3_Operator.exe
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\bin\Debug\net9.0\Bai_3_Operator.deps.json
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\bin\Debug\net9.0\Bai_3_Operator.runtimeconfig.json
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\bin\Debug\net9.0\Bai_3_Operator.dll
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\bin\Debug\net9.0\Bai_3_Operator.pdb
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\Bai_3_Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\Bai_3_Operator.AssemblyInfoInputs.cache
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\Bai_3_Operator.AssemblyInfo.cs
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\Bai_3_Operator.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\Bai_3_Operator.sourcelink.json
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\Bai_3_Operator.dll
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\refint\Bai_3_Operator.dll
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\Bai_3_Operator.pdb
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\Bai_3_Operator.genruntimeconfig.cache
+D:\Learn C#\Bai_3_operator\Bai_3_Operator\Bai_3_Operator\obj\Debug\net9.0\ref\Bai_3_Operator.dll
