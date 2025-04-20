@@ -1,0 +1,15 @@
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.exe
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.deps.json
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.runtimeconfig.json
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.dll
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\bin\Debug\net9.0\SwitchCase.pdb
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.AssemblyInfoInputs.cache
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.AssemblyInfo.cs
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.sourcelink.json
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.dll
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\refint\SwitchCase.dll
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.pdb
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\SwitchCase.genruntimeconfig.cache
+D:\Learn C#\Bai_6_switch_case\SwitchCase\SwitchCase\obj\Debug\net9.0\ref\SwitchCase.dll
