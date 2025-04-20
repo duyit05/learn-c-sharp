@@ -1,0 +1,15 @@
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\bin\Debug\net9.0\BranchIfElse.exe
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\bin\Debug\net9.0\BranchIfElse.deps.json
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\bin\Debug\net9.0\BranchIfElse.runtimeconfig.json
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\bin\Debug\net9.0\BranchIfElse.dll
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\bin\Debug\net9.0\BranchIfElse.pdb
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\BranchIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\BranchIfElse.AssemblyInfoInputs.cache
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\BranchIfElse.AssemblyInfo.cs
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\BranchIfElse.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\BranchIfElse.sourcelink.json
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\BranchIfElse.dll
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\refint\BranchIfElse.dll
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\BranchIfElse.pdb
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\BranchIfElse.genruntimeconfig.cache
+D:\Learn C#\Bai_5_if_else\BranchIfElse\BranchIfElse\obj\Debug\net9.0\ref\BranchIfElse.dll
