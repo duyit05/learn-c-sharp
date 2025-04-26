@@ -1,0 +1,15 @@
+D:\Learn C#\Bai_9_Struct\Struct\Struct\bin\Debug\net9.0\Struct.exe
+D:\Learn C#\Bai_9_Struct\Struct\Struct\bin\Debug\net9.0\Struct.deps.json
+D:\Learn C#\Bai_9_Struct\Struct\Struct\bin\Debug\net9.0\Struct.runtimeconfig.json
+D:\Learn C#\Bai_9_Struct\Struct\Struct\bin\Debug\net9.0\Struct.dll
+D:\Learn C#\Bai_9_Struct\Struct\Struct\bin\Debug\net9.0\Struct.pdb
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\Struct.AssemblyInfoInputs.cache
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\Struct.AssemblyInfo.cs
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\Struct.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\Struct.sourcelink.json
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\Struct.dll
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\refint\Struct.dll
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\Struct.pdb
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\Struct.genruntimeconfig.cache
+D:\Learn C#\Bai_9_Struct\Struct\Struct\obj\Debug\net9.0\ref\Struct.dll
