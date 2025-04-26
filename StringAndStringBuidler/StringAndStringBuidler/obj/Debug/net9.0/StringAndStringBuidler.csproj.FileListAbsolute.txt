@@ -1,0 +1,15 @@
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\bin\Debug\net9.0\StringAndStringBuidler.exe
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\bin\Debug\net9.0\StringAndStringBuidler.deps.json
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\bin\Debug\net9.0\StringAndStringBuidler.runtimeconfig.json
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\bin\Debug\net9.0\StringAndStringBuidler.dll
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\bin\Debug\net9.0\StringAndStringBuidler.pdb
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\StringAndStringBuidler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\StringAndStringBuidler.AssemblyInfoInputs.cache
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\StringAndStringBuidler.AssemblyInfo.cs
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\StringAndStringBuidler.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\StringAndStringBuidler.sourcelink.json
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\StringAndStringBuidler.dll
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\refint\StringAndStringBuidler.dll
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\StringAndStringBuidler.pdb
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\StringAndStringBuidler.genruntimeconfig.cache
+D:\Learn C#\Bai_8_String_StringBuilder\StringAndStringBuidler\StringAndStringBuidler\obj\Debug\net9.0\ref\StringAndStringBuidler.dll
