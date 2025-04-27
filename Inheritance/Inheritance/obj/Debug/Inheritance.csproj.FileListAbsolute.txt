@@ -1,0 +1,6 @@
+D:\Learn C#\Bai_10_inheritance_OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Learn C#\Bai_10_inheritance_OOP\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Learn C#\Bai_10_inheritance_OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Learn C#\Bai_10_inheritance_OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_10_inheritance_OOP\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Learn C#\Bai_10_inheritance_OOP\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
