@@ -1,0 +1,6 @@
+D:\Learn C#\Bai_11_namspace_and_partial\NamespaceAndPartial\NamespaceAndPartial\bin\Debug\NamespaceAndPartial.exe
+D:\Learn C#\Bai_11_namspace_and_partial\NamespaceAndPartial\NamespaceAndPartial\bin\Debug\NamespaceAndPartial.pdb
+D:\Learn C#\Bai_11_namspace_and_partial\NamespaceAndPartial\NamespaceAndPartial\obj\Debug\NamespaceAndPartial.csproj.AssemblyReference.cache
+D:\Learn C#\Bai_11_namspace_and_partial\NamespaceAndPartial\NamespaceAndPartial\obj\Debug\NamespaceAndPartial.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_11_namspace_and_partial\NamespaceAndPartial\NamespaceAndPartial\obj\Debug\NamespaceAndPartial.exe
+D:\Learn C#\Bai_11_namspace_and_partial\NamespaceAndPartial\NamespaceAndPartial\obj\Debug\NamespaceAndPartial.pdb
