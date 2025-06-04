@@ -1,0 +1,6 @@
+D:\Learn C#\Bai_12_generic\Generic\Generic\bin\Debug\Generic.exe
+D:\Learn C#\Bai_12_generic\Generic\Generic\bin\Debug\Generic.pdb
+D:\Learn C#\Bai_12_generic\Generic\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+D:\Learn C#\Bai_12_generic\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_12_generic\Generic\Generic\obj\Debug\Generic.exe
+D:\Learn C#\Bai_12_generic\Generic\Generic\obj\Debug\Generic.pdb
