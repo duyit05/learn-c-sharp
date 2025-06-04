@@ -1,0 +1,6 @@
+D:\Learn C#\Bai_13_anonymous_and_dynamic\AnonymousAndDynamic\AnonymousAndDynamic\bin\Debug\AnonymousAndDynamic.exe
+D:\Learn C#\Bai_13_anonymous_and_dynamic\AnonymousAndDynamic\AnonymousAndDynamic\bin\Debug\AnonymousAndDynamic.pdb
+D:\Learn C#\Bai_13_anonymous_and_dynamic\AnonymousAndDynamic\AnonymousAndDynamic\obj\Debug\AnonymousAndDynamic.csproj.AssemblyReference.cache
+D:\Learn C#\Bai_13_anonymous_and_dynamic\AnonymousAndDynamic\AnonymousAndDynamic\obj\Debug\AnonymousAndDynamic.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_13_anonymous_and_dynamic\AnonymousAndDynamic\AnonymousAndDynamic\obj\Debug\AnonymousAndDynamic.exe
+D:\Learn C#\Bai_13_anonymous_and_dynamic\AnonymousAndDynamic\AnonymousAndDynamic\obj\Debug\AnonymousAndDynamic.pdb
