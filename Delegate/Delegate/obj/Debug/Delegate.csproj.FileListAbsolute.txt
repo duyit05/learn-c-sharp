@@ -1,0 +1,6 @@
+D:\Learn C#\Bai_15_deleagte\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\Learn C#\Bai_15_deleagte\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\Learn C#\Bai_15_deleagte\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+D:\Learn C#\Bai_15_deleagte\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Learn C#\Bai_15_deleagte\Delegate\Delegate\obj\Debug\Delegate.exe
+D:\Learn C#\Bai_15_deleagte\Delegate\Delegate\obj\Debug\Delegate.pdb
